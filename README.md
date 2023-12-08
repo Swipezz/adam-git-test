@@ -1,2 +1,2 @@
 # adam-git-test
-Rep[o untuk menyoba git remote
+Repo untuk menyoba git remote
